@@ -1,0 +1,24 @@
+{
+  "author": "ryahrox",
+  "name": "testbata",
+  "description": "Default app for nodester",
+  "version": "0.0.0",
+  "private": true,
+  "homepage": "http://testbata.nodester.com",
+  "node": "0.8.1",
+  "repository": {
+    "url": "defaultapp"
+  },
+  "main": "server.js",
+  "dependencies": {
+    "express": "~2.5.9"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "start": "node server"
+  }
+}
